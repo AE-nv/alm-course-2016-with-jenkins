@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>be.ae</groupId>
 	<version>0.1-SNAPSHOT</version>
-	<artifactId>alm-course-2016-with-jenkins</artifactId>
+	<artifactId>productservice</artifactId>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
